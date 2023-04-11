@@ -1,0 +1,16 @@
+c:\users\ahmad\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Renci.SshNet.dll
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Renci.SshNet.xml
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Attendance System.exe.config
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AttendanceSystem.Form1.resources
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AttendanceSystem.Form2.resources
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AttendanceSystem.Resources.resources
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Attendance System.xml
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Attendance System.exe
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Attendance System.pdb
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Attendance System.xml
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Attendance System.exe
+C:\Users\ahmad\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Attendance System.pdb
